@@ -53,14 +53,15 @@ async def ping_fallen(_, message: Message):
 ๏ **ᴜᴩᴛɪᴍᴇ :** {uptime}
 ๏ **ʀᴀᴍ :** {mem}
 ๏ **ᴄᴩᴜ :** {cpu}
-๏ **ᴅɪsᴋ :** {disk}""",
+๏ **ᴅɪsᴋ :** {disk}
+|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [ɢᴜʀɪ ](https://t.me/Lost3oy) 🥀 ||""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton("❄ sᴜᴘᴘᴏʀᴛ ❄", url=config.SUPPORT_CHAT),
                     InlineKeyboardButton(
                         "✨ sᴏᴜʀᴄᴇ ✨",
-                        url="https://github.com/AnonymousX1025/FallenMusic",
+                        url="https://telegra.ph//file/7ea34f2d94a045084de48.jpg",
                     ),
                 ],
             ]
